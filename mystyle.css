@@ -37,6 +37,7 @@ p {
 .section {
     background-color: #fff;
     padding: 15px 25px 15px 25px;
+    margin: 15px 0px 15px 0px;	
 }
 #header {
     background-image: url("https://i.imgur.com/Xc4JEXZ.jpg");
