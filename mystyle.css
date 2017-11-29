@@ -102,7 +102,7 @@ progress::-moz-progress-bar {
     height: 0;
 }
 
-.videoWrapper iframe {
+.videowrapper iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
