@@ -2,6 +2,10 @@ html {
     margin: 0;
     padding: 0;
 }
+.container {
+    max-width:1000px;
+    margin: auto;
+}
 body {
     font-family: 'Poppins', sans serif;
     font-size: 13pt;
