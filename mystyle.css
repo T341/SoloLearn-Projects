@@ -30,6 +30,9 @@ p {
     padding: 0;
     margin: 0;
 }
+span.bold {
+    font-weight: bold;  
+}
 .img-circle {
     border: 3px solid white;
     border-radius: 50%;
